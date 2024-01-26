@@ -12,6 +12,7 @@ menu: any[] = [
       { titulo: 'Main', url:'/' },
       { titulo: 'ProgressBar', url:'progress' },
       { titulo: 'Gráficas', url:'grafica1' },
+      { titulo: 'rxjs', url:'rxjs' },
     ]
   }
 ];
